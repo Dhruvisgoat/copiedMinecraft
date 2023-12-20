@@ -1,0 +1,8 @@
+# do not include node modules 
+node_modules
+# do not include build files
+build
+# do not include coverage files
+coverage
+# do not include .env files
+.env
